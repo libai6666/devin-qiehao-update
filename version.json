@@ -1,0 +1,11 @@
+{
+  "version": "2.2.6",
+  "tag": "v2.2.6",
+  "vsix": "devin-switch-2.2.6.vsix",
+  "releaseUrl": "https://github.com/libai6666/devin-qiehao-update/releases",
+  "downloadUrl": "https://github.com/libai6666/devin-qiehao-update/releases",
+  "sha256": "",
+  "size": 0,
+  "publishedAt": "2026-11-17T00:00:00.000Z",
+  "notes": "baseline manifest seeded before first CI release"
+}
