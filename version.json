@@ -1,10 +1,10 @@
 {
-  "version": "2.2.7",
-  "tag": "v2.2.7",
-  "vsix": "devin-switch-2.2.7.vsix",
-  "releaseUrl": "https://github.com/libai6666/devin-qiehao-update/releases/tag/v2.2.7",
-  "downloadUrl": "https://github.com/libai6666/devin-qiehao-update/releases/download/v2.2.7/devin-switch-2.2.7.vsix",
-  "sha256": "15b499ca482771b9f3b9fbed5717602ee094dc0dbb6ed46d9a41330df704792d",
-  "size": 18818233,
-  "publishedAt": "2026-11-17T10:16:07.420Z"
+  "version": "2.3.2",
+  "tag": "v2.3.2",
+  "vsix": "devin-switch-2.3.2.vsix",
+  "releaseUrl": "https://github.com/libai6666/devin-qiehao-update/releases/tag/v2.3.2",
+  "downloadUrl": "https://github.com/libai6666/devin-qiehao-update/releases/download/v2.3.2/devin-switch-2.3.2.vsix",
+  "sha256": "cdb4c2961a6846e9e06a8f655ff50af16edbde2d6c20bdb5d09462d9f26dbcca",
+  "size": 19032069,
+  "publishedAt": "2026-11-25T09:05:09.355Z"
 }
